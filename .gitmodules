@@ -1,0 +1,12 @@
+[submodule "wgse_script"]
+	path = wgse_script
+	url = git@github.com:AwpMsnSoft/wgse_script.git
+[submodule "wgse_backend"]
+	path = wgse_backend
+	url = git@github.com:AwpMsnSoft/wgse_backend.git
+[submodule "wgse_frontend"]
+	path = wgse_frontend
+	url = git@github.com:AwpMsnSoft/wgse_frontend.git
+[submodule "wgse_interface"]
+	path = wgse_interface
+	url = git@github.com:AwpMsnSoft/wgse_interface.git
