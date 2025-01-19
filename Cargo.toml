@@ -1,0 +1,10 @@
+[package]
+name = "wgse"
+version = "0.1.0-dev"
+authors = [ "AwpMcnCoft Wgse Dev. <wgse-develop@awpmcncoft.anonaddy.com> "]
+edition = "2021"
+license = "MIT OR Apatch 2.0"
+rust-version = "1.83.0"
+
+[workspace]
+members = ["tools/ci"]

@@ -1,0 +1,32 @@
+project:
+  type: book
+  output-dir: output
+
+book:
+  title: "Wgse 开发文档"
+  version: 0.1.0-dev
+  abstract: >
+    于此处添加项目简介。
+  author:
+    name: AwpMcnCoft Wgse Dev.
+    email: wgse-develop@awpmcncoft.anonaddy.com
+  date: "2025/1/19"
+  search: true
+  language: zh
+  license: CC BY-SA
+  downloads: [pdf]
+  sidebar:
+    style: docked
+  chapters:
+    - index.qmd
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    toggle: true
+  pdf:
+    documentclass: scrreprt
+
+
