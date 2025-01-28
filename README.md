@@ -1,4 +1,4 @@
-# WGSE 项目文档 {.unnumbered}
+# WGSE
 
 ![License](https://img.shields.io/badge/license-MIT%2FApache-blue.svg)
 ![Version](https://img.shields.io/badge/version-0.1.0_dev-green.svg)
@@ -8,6 +8,14 @@
 ## 简介
 
 简要介绍项目的目的和功能。描述项目解决的问题以及它的主要特性。
+
+## 目录
+
+- [使用方法](#使用方法)
+- [文档](#文档)
+- [贡献](#贡献)
+- [许可证](#许可证)
+
 
 ## 使用方法
 
