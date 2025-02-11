@@ -1,6 +1,8 @@
 project:
   type: book
   output-dir: output
+  preview:
+    port: 12380
 
 book:
   title: "Wgse 开发文档"
@@ -23,6 +25,7 @@ book:
     - chapters/chapter2.qmd
     - chapters/chapter3.qmd
     - chapters/chapter4.qmd
+    - chapters/chapter5.qmd
 
 format:
   html:
